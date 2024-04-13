@@ -47,4 +47,5 @@ Note: For running on Google Colab, you don't need to install any dependencies as
 - Finally, the script verifies if the decrypted message matches the original message.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
